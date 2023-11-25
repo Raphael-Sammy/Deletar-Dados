@@ -1,2 +1,2 @@
-# Deletar-Dados
-Deletando dados com MySQL e  Java.
+# Deletar Dados
+# Deletando dados com MySQL e  Java.
